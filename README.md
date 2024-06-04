@@ -1,6 +1,6 @@
 Bem vindos ao meu perfil 
 -
-meu nome é Andrew Monte
+Meu nome é Andrew Monte
 
 - Eu sou aluno da escola E.E PEI JOÂO CLIMACO DE CAMARGO PIRES
 - Utilizamos como ferramenta nas aulas de robótica os cursos da Alura
